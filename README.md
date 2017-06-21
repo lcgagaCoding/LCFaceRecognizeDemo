@@ -1,0 +1,2 @@
+# LCFaceRecognizeDemo
+基于讯飞人脸识别的二次封装,集成人脸识别接口及人脸获取
